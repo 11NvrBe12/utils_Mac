@@ -1,4 +1,4 @@
-package utils
+package utils_Mac
 
 import (
 	"encoding/csv"
