@@ -1,4 +1,4 @@
-module github.com/11NvrBe12
+module github.com/11NvrBe12/utils_Mac
 
 go 1.20
 
