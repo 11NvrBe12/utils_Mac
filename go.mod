@@ -1,4 +1,4 @@
-module github.com/goalm/lib
+module github.com/utils_Mac
 
 go 1.20
 
